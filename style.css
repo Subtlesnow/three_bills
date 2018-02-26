@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  background-color: #0B5563;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  background-color: #5299D3;
+}
+
+.column {
+  height: 100%;
+  padding: 1%;
+}
+
+.column_img {
+  float: left;
+  padding: 1%;
+}
